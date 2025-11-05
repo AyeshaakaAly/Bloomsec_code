@@ -1,0 +1,1 @@
+The dataset used to evaluate the performance of the proposed technique is a subset of the Enron Email Dataset, which is available in the repository as a compressed zip file divided into multiple chunks. You can download all the chunks, extract them, and combine the files to obtain the complete dataset for use.
