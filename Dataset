@@ -1,5 +1,0 @@
-This dataset was collected and prepared by the CALO Project (A Cognitive Assistant that Learns and Organizes). It contains data from about 150 users, mostly senior management of Enron, organized into folders.
-The corpus contains a total of about 0.5M messages. This data was originally made public and posted to the web by the Federal Energy Regulatory Commission during its investigation. Enron email dataset can be downloaded
-from the following link: https://www.cs.cmu.edu/~enron/
-The dataset used to implement our technique is the Enron Email Dataset, which can be downloaded from the following link: 
-https://drive.google.com/drive/folders/1ZBMG2cIw8TZ9xyt_AvhMFvPLlRylAHJ7?usp=drive_link
